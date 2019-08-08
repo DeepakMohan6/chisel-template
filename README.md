@@ -1,3 +1,5 @@
+Visit the main Page:  https://github.com/freechipsproject/chisel-template
+
 Chisel Project Template
 =======================
 
